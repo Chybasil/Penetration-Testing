@@ -8,6 +8,8 @@
 
 **Challenge 4** – Analyze a Wireshark capture file to find the location of a file containing flag information.
 
-<h3>Required Resources</h3>
+
+
+<h1>Required Resources</h1>
 
 The tool used for this challange is Kali VM customized for the Ethical Hacker course.
