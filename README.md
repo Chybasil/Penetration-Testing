@@ -8,7 +8,7 @@
 
 **Challenge 4** – Analyze a Wireshark capture file to find the location of a file containing flag information.
 
-
+-------------------------------------------------------------------------------------------------------------------------------
 
 <h1>Required Resources</h1>
 
